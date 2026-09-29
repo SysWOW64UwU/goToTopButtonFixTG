@@ -3,7 +3,9 @@
 A lightweight Tampermonkey / Violentmonkey userscript that fixes and shrinks the excessively large, misconfigured **[⌃ Go Up]** sidebar button layout on Telegram's blog and core documentation pages.
 
 ## Preview
-![Script Demonstration](Preview.mp4)
+https://github.com/user-attachments/assets/71bc8b98-7312-4131-ba92-b1b03728a9fc
+
+
 
 ## The Problem
 By default, the entire vertical wrap container (`a.back_to_top_wrap`) on Telegram's site acts as a giant clickable button stretching up the screen. This causes accidental clicks, unwanted scrolling behavior, and overrides the native `cursor: pointer` logic across a massive blank zone of the page layout.
