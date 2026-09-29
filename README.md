@@ -26,9 +26,8 @@ First, make sure you have a userscript manager extension installed in your brows
 
 ### How to Install
 1. Click on the [telegram-go-up-fix.user.js](https://github.com/SysWOW64UwU/goToTopButtonFixTG/raw/refs/heads/main/telegram-go-up-fix.user.js) file inside this repository.
-2. Click the **Raw** button in the top right corner of the file view.
-3. Your userscript manager extension will automatically open and prompt you with an **Install** button.
-4. Click install and refresh any open Telegram pages!
+2. Your userscript manager extension will automatically open and prompt you with an **Install** button.
+3. Click install and refresh any open Telegram pages!
 
 ## Supported Domains
 The script activates on the following URLs:
