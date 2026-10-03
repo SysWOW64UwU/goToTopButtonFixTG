@@ -35,7 +35,7 @@ The script activates on the following URLs:
 * `https://core.telegram.org/*`
 
 ## License
-This project is licensed under the **WTFPL** (Do What The Fuck You Want To Public License). See below for details:
+This project is licensed under the **WTFPL** (Do What The Fuck You Want To Public License).
 
 ```text
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
